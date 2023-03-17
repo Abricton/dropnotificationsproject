@@ -15,3 +15,5 @@ I am going to assume out the gate we will need the following:
 3. Advanced Discord function to IM DiscordUser with Store#(s) from list (and potentially Google Maps link to said Store#(s)).
 
 This is all what I quickly threw together. Please consider this a working document and update with proposals.
+
+You will find two quick and dirty scripts I wrote to initially test functions of openly available scraper projects.
