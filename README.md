@@ -1,3 +1,3 @@
 # dropnotificationsproject
 
-#Public Repository for quick notification code
+# Public Repository for quick notification code
