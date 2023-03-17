@@ -1,5 +1,7 @@
 # dropnotificationsproject
 
+PR required before merging to main
+
 # Public Repository for quick notification code
 
 I am going to assume out the gate we will need the following:
